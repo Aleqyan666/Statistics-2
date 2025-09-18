@@ -2,3 +2,4 @@ pandas
 statsmodels
 openpyxl
 loguru
+matplotlib
